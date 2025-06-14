@@ -37,7 +37,7 @@ This project is a machine learning-based heart disease prediction system develop
    pip install -r requirements.txt
 3. Open and run the Jupyter Notebook:
    ```bash
-   jupyter notebook Heart-issue\\ detection\\ system.ipynb
+   jupyter notebook Heart-issue detection system.ipynb
 4. Replace input_data at the end of the notebook to test predictions with your own values.
 
 ## Model Evaluation
